@@ -11,7 +11,7 @@ The script uses the same JSON map list that the official XOSS download page load
 
 - Fetches the official XOSS map list (`map_list.json`) used by the XOSS download page.
 - Lists all available countries in plain text.
-- Select country by **typing its name (or part of it)**, not an index.
+- Select country by **typing its name (or part of it)**
 - If a country has multiple regions (e.g., German states), you can:
   - download **all regions**, or  
   - pick **one region** by number.
